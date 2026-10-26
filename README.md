@@ -3,6 +3,7 @@
 **Describe a part in plain English, and an AI engineer designs it, builds it live in FreeCAD, checks it and reports the numbers.**
 
 I built a custom **MCP (Model Context Protocol) server** that connects Claude to a running FreeCAD session, together with an **engineering knowledge base** that makes the AI behave like a careful CAD engineer rather than a fast guesser. I then verified the AI's designs myself with **hand calculations and ANSYS FEA**.
+The code was developed with AI-assisted coding (Claude Code); I designed the architecture, wrote the engineering rules and verified every result myself.
 
 ![Spur gear pair designed and built from a text prompt](images/gear_model.png)
 *A 3:1 spur gear pair (module 2, 27/81 teeth) built from a single plain-English brief, then FEA-checked in ANSYS.*
