@@ -205,7 +205,7 @@ The FreeCAD models are in [`examples/`](examples/).
 Simulation (FEM/CFD) and CAD engineer.
 
 - 🌐 Portfolio: [bertwinkurisinkalshine-portfolio.netlify.app](https://bertwinkurisinkalshine-portfolio.netlify.app)
-- 💼 LinkedIn: *[add your LinkedIn URL]*
+- 💼 LinkedIn: https://www.linkedin.com/in/bertwin-kurisinkal-shine/
 - ✉️ For access to the source code, contact me through the details on my CV or portfolio.
 
 ---
